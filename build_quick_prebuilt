@@ -1,0 +1,3 @@
+#!/bin/sh
+"quick_prebuilt.mkb --compiler=clang --buildenv=scons --x86 --output-name=../quick/target/osx/quick_prebuilt --output-name-debug=../quick/target/osx/quick_prebuilt_d"
+"quick_prebuilt.mkb --buildenv=scons --compiler=gcc --arm --output-name=target/arm/quick_prebuilt --output-name-debug=target/arm/quick_prebuilt_d
