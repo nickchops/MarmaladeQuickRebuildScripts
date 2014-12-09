@@ -36,7 +36,7 @@ For PC Users:
   - Windows Phone 8 x86 and ARM
   - Windows Phone 8.1 x86 and ARM
   - Windows Store 8 x86 and ARM
-  - Windows Phone 8.1 x86 and ARM
+  - Windows Store 8.1 x86 and ARM
 
 Note that the win8 one requires compatible versions of Visual Studio depending on the target type. It will show an error and let you continue if any are missing.
   
